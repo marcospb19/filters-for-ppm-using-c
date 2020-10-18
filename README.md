@@ -1,5 +1,5 @@
 # blur-image-filter
-Very fast-coded and funny blur filter I done for fun. Messing with parameters can make crazy filters 
+Very fast-coded and funny blur filter I've done for fun.
 
 # Original:
 ![original](https://i.imgur.com/4PbDO8P.jpg)
